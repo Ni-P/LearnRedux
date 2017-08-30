@@ -1,1 +1,1 @@
-Simple timer app made with React
+Redux practice
