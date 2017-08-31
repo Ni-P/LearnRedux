@@ -9,7 +9,7 @@ $(document).foundation();
 // app css
 require('style!css!sass!applicationStyles');
 
-ReactDOM.render(<p>Redux Project</p>, document.getElementById('app'));
+// ReactDOM.render(<p>Redux Project</p>, document.getElementById('app'));
 
 // require('./redux-example.jsx');
 require('./redux-todo-example.jsx');
